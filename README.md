@@ -7,6 +7,12 @@
     
   </head>
   <body> 
-    <h1>cannabis wizard</h1>
+    <nav class="navbar">
+      <h2 class="logo"><a herf="#">4MINDCANNABIS</a></h2>
+      <ul class="nav-links">
+        <li><a herf="#store">Store</a></li>
+        <li><a herf="#About">About</a></li>
+        <li><a herf="#Contact">Contact</a></li>
+        
   </body>  
   
